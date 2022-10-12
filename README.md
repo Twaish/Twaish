@@ -16,21 +16,12 @@ public int gcd(int a, int b) {
 ## LaTeX Test
 
 $$
-\begin{gather}
-    a + b = c \\ 
-    a = c - b
-\end{gather}
-
-\begin{align}
-    a + b &= c \\        
-        a &= c - b
-\end{align}
-\bigl( x \bigr) \Bigl( x \Bigr) \biggl( x \biggr) \Biggl( x \Biggr)
-\bigl[ x \bigr] \Bigl[ x \Bigr] \biggl[ x \biggr] \Biggl[ x \Biggr]
-\bigl\\{ x \bigr\\} \Bigl\\{ x \Bigr\\} \biggl\\{ x \biggr\\} \Biggl\\{ x \Biggr\\}
-\bigl\langle x \bigr\rangle \Bigl\langle x \Bigr\rangle \biggl\langle x \biggr\rangle \Biggl\langle x \Biggr\rangle
-\bigl\lceil x \bigr\rceil \Bigl\lceil x \Bigr\rceil \biggl\lceil x \biggr\rceil \Biggl\lceil x \Biggr\rceil
-\bigl\lfloor x \bigr\rfloor \Bigl\lfloor x \Bigr\rfloor \biggl\lfloor x \biggr\rfloor \Biggl\lfloor x \Biggr\rfloor
+\bigl(\bigr) \Bigl(\Bigr) \biggl(\biggr) \Biggl(\Biggr)
+\bigl[\bigr] \Bigl[\Bigr] \biggl[\biggr] \Biggl[\Biggr]
+\bigl\\{\bigr\\} \Bigl\\{\Bigr\\} \biggl\\{\biggr\\} \Biggl\\{\Biggr\\}
+\bigl\langle\bigr\rangle \Bigl\langle\Bigr\rangle \biggl\langle\biggr\rangle \Biggl\langle\Biggr\rangle
+\bigl\lceil\bigr\rceil \Bigl\lceil\Bigr\rceil \biggl\lceil\biggr\rceil \Biggl\lceil\Biggr\rceil
+\bigl\lfloor\bigr\rfloor \Bigl\lfloor\Bigr\rfloor \biggl\lfloor\biggr\rfloor \Biggl\lfloor\Biggr\rfloor
 \big| \Big| \bigg| \Bigg|
 \big\| \Big\| \bigg\| \Bigg\|
 \sum_{n=0}^\infty \frac{1}{2^n}
