@@ -14,6 +14,8 @@ public int gcd(int a, int b) {
 ```
 
 ## LaTeX Test
+
+$$ 
 \documentclass{article}
 \usepackage{amsmath}
 \begin{document}
@@ -29,7 +31,6 @@ With the align environment you can align equations:
         a &= c - b
 \end{align}
 \end{document}
-$$ 
 \bigl( x \bigr) \Bigl( x \Bigr) \biggl( x \biggr) \Biggl( x \Biggr)
 \bigl[ x \bigr] \Bigl[ x \Bigr] \biggl[ x \biggr] \Biggl[ x \Biggr]
 \bigl\\{ x \bigr\\} \Bigl\\{ x \Bigr\\} \biggl\\{ x \biggr\\} \Biggl\\{ x \Biggr\\}
