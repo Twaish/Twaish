@@ -12,17 +12,17 @@ public class Bruh {
 
 ## LaTeX Test
 $$ 
-\bigl( \bigr) \Bigl( \Bigr) \biggl( \biggr) \Biggl( \Biggr)
-\bigl[ \bigr] \Bigl[ \Bigr] \biggl[ \biggr] \Biggl[ \Biggr]
-\bigl\\{ \bigr\\} \Bigl\\{ \Bigr\\} \biggl\\{ \biggr\\} \Biggl\\{ \Biggr\\}
-\bigl\langle \bigr\rangle \Bigl\langle \Bigr\rangle \biggl\langle \biggr\rangle \Biggl\langle \Biggr\rangle
-\bigl\lceil \bigr\rceil \Bigl\lceil \Bigr\rceil \biggl\lceil \biggr\rceil \Biggl\lceil \Biggr\rceil
-\bigl\lfloor \bigr\rfloor \Bigl\lfloor \Bigr\rfloor \biggl\lfloor \biggr\rfloor \Biggl\lfloor \Biggr\rfloor
+\bigl( x \bigr) \Bigl( x \Bigr) \biggl( x \biggr) \Biggl( x \Biggr)
+\bigl[ x \bigr] \Bigl[ x \Bigr] \biggl[ x \biggr] \Biggl[ x \Biggr]
+\bigl\\{ x \bigr\\} \Bigl\\{ x \Bigr\\} \biggl\\{ x \biggr\\} \Biggl\\{ x \Biggr\\}
+\bigl\langle x \bigr\rangle \Bigl\langle x \Bigr\rangle \biggl\langle x \biggr\rangle \Biggl\langle x \Biggr\rangle
+\bigl\lceil x \bigr\rceil \Bigl\lceil x \Bigr\rceil \biggl\lceil x \biggr\rceil \Biggl\lceil x \Biggr\rceil
+\bigl\lfloor x \bigr\rfloor \Bigl\lfloor x \Bigr\rfloor \biggl\lfloor x \biggr\rfloor \Biggl\lfloor x \Biggr\rfloor
 \big| \Big| \bigg| \Bigg|
 \big\| \Big\| \bigg\| \Bigg\|
 \sum_{n=0}^\infty \frac{1}{2^n}
 \sqrt[3]{\frac{1}{2}}
-\lim_{x\to0}\newline
+\lim_{x\to0}
 \Biggl( \iint e^{-((\rho \cos \theta)^2+(\rho \sin \theta)^2)} \bigg| \frac{d(x, y)}{d(\rho, \theta)} \bigg| \Biggr)^{\frac{1}{2}}
 \mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}
 \mathbf{ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}
