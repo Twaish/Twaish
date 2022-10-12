@@ -16,11 +16,11 @@ $$
 \bigl[ \bigr] \Bigl[ \Bigr] \biggl[ \biggr] \Biggl[ \Biggr]
 \bigl\{ \bigr\} \Bigl\{ \Bigr\} \biggl\{ \biggr\} \Biggl\{ \Biggr\}
 \bigl\langle \bigr\rangle \Bigl\langle \Bigr\rangle \biggl\langle \biggr\rangle \Biggl\langle \Biggr\rangle
-\bigl\lceil \bigr\rceil \Bigl\lceil \Bigr\rceil \biggl\lceil \biggr\rceil \Biggl\lceil \Biggr\rceil
+\bigl\lceil \bigr\rceil \Bigl\lceil \Bigr\rceil \biggl\lceil \biggr\rceil \Biggl\lceil \Biggr\rceil$$
 \bigl\lfloor \bigr\rfloor \Bigl\lfloor \Bigr\rfloor \biggl\lfloor \biggr\rfloor \Biggl\lfloor \Biggr\rfloor
 \big| \Big| \bigg| \Bigg|
 \big\| \Big\| \bigg\| \Bigg\|
- $$
+$$
 
 $$
 $$\Biggl( \iint e^{-((\rho \cos \theta)^2+(\rho \sin \theta)^2)} \bigg| \frac{d(x, y)}{d(\rho, \theta)} \bigg| \Biggr)^{\frac{1}{2}}$$
