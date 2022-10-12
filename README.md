@@ -12,7 +12,9 @@ public class Bruh {
 
 ## LaTeX Test
 $$
-\bigl( \bigr) \Bigl( \Bigr) \biggl( \biggr) \Biggl( \Biggr) \bigl[ \bigr] \Bigl[ \Bigr] \biggl[ \biggr] \Biggl[ \Biggr] \bigl\{ \bigr\} \Bigl\{ \Bigr\} \biggl\{ \biggr\} \Biggl\{ \Biggr\}$$
+\bigl( \bigr) \Bigl( \Bigr) \biggl( \biggr) \Biggl( \Biggr)
+\bigl[ \bigr] \Bigl[ \Bigr] \biggl[ \biggr] \Biggl[ \Biggr]$$
+\bigl\{ \bigr\} \Bigl\{ \Bigr\} \biggl\{ \biggr\} \Biggl\{ \Biggr\}$$
 \bigl\langle \bigr\rangle \Bigl\langle \Bigr\rangle \biggl\langle \biggr\rangle \Biggl\langle \Biggr\rangle
 
 \bigl\lceil \bigr\rceil \Bigl\lceil \Bigr\rceil \biggl\lceil \biggr\rceil \Biggl\lceil \Biggr\rceil
