@@ -11,7 +11,8 @@ public class Bruh {
 ```
 
 ## LaTeX Test
-$$\bigl( \Bigl( \biggl( \Biggl( \Biggr) \biggr) \Bigr) \bigr) \\
+$$ \displaylines{x = a + b \\ y = b + c}
+\bigl( \Bigl( \biggl( \Biggl( \Biggr) \biggr) \Bigr) \bigr)
 \bigl[ \Bigl[ \biggl[ \Biggl[ \Biggr] \biggr] \Bigr] \bigr] $$
 \bigl\{ \Bigl\{ \biggl\{ \Biggl\{ \Biggr\} \biggr\} \Bigr\} \bigr\}$$
 $$\bigl\langle \Bigl\langle \biggl\langle \Biggl\langle $$
