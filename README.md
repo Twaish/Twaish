@@ -13,13 +13,14 @@ public class Bruh {
 ## LaTeX Test
 $$
 \bigl( \bigr) \Bigl( \Bigr) \biggl( \biggr) \Biggl( \Biggr)
-\bigl[ \bigr] \Bigl[ \Bigr] \biggl[ \biggr] \Biggl[ \Biggr]$$
-\bigl\{ \Bigl\{ \biggl\{ \Biggl\{ \Biggr\} \biggr\} \Bigr\} \bigr\}$$
-$$\bigl\langle \Bigl\langle \biggl\langle \Biggl\langle $$
-$$\big| \Big| \bigg| \Bigg| $$
-$$\big\| \Big\| \bigg\| \Bigg\| $$
-$$\bigl\lceil \Bigl\lceil \biggl\lceil \Biggl\lceil $$
-$$\bigr\rfloor \Bigr\rfloor \biggr\rfloor \Biggr\rfloor $$
+\bigl[ \bigr] \Bigl[ \Bigr] \biggl[ \biggr] \Biggl[ \Biggr]
+\bigl\{ \bigr\} \Bigl\{ \Bigr\} \biggl\{ \biggr\} \Biggl\{ \Biggr\}
+\bigl\langle \bigr\rangle \Bigl\langle \Bigr\rangle \biggl\langle \biggr\rangle \Biggl\langle \Biggr\rangle
+\bigl\lceil \bigr\rceil \Bigl\lceil \Bigr\rceil \biggl\lceil \biggr\rceil \Biggl\lceil \Biggr\rceil
+\bigl\lfloor \bigr\rfloor \Bigl\lfloor \Bigr\rfloor \biggl\lfloor \biggr\rfloor \Biggl\lfloor \Biggr\rfloor
+\big| \Big| \bigg| \Bigg|
+\big\| \Big\| \bigg\| \Bigg\|
+ $$
 
 $$
 $$\Biggl( \iint e^{-((\rho \cos \theta)^2+(\rho \sin \theta)^2)} \bigg| \frac{d(x, y)}{d(\rho, \theta)} \bigg| \Biggr)^{\frac{1}{2}}$$
