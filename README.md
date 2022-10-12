@@ -11,9 +11,9 @@ public class Bruh {
 ```
 
 ## LaTeX Test
-$$\bigl( \Bigl( \biggl( \Biggl( \Biggr) \biggr) \Bigr) \bigr)$$
-$$\bigl[ \Bigl[ \biggl[ \Biggl[ \Biggr] \biggr] \Bigr] \bigr] $$
-$$\bigl\{ \Bigl\{ \biggl\{ \Biggl\{ \Biggr\} \biggr\} \Bigr\} \bigr\}$$
+$$\bigl( \Bigl( \biggl( \Biggl( \Biggr) \biggr) \Bigr) \bigr) \\
+\bigl[ \Bigl[ \biggl[ \Biggl[ \Biggr] \biggr] \Bigr] \bigr] $$
+\bigl\{ \Bigl\{ \biggl\{ \Biggl\{ \Biggr\} \biggr\} \Bigr\} \bigr\}$$
 $$\bigl\langle \Bigl\langle \biggl\langle \Biggl\langle $$
 $$\big| \Big| \bigg| \Bigg| $$
 $$\big\| \Big\| \bigg\| \Bigg\| $$
