@@ -23,10 +23,8 @@ $$
 \bigl\lceil\bigr\rfloor \Bigl\lceil\Bigr\rfloor \biggl\lceil\biggr\rfloor \Biggl\lceil\Biggr\rfloor
 
 \bigl\lfloor\bigr\rceil \Bigl\lfloor\Bigr\rceil \biggl\lfloor\biggr\rceil \Biggl\lfloor\Biggr\rceil
-$$
-$$
-\bigl\lceil\bigr\rceil \Bigl\lceil\Bigr\rceil \biggl\lceil\biggr\rceil \Biggl\lceil\Biggr\rceil
-\bigl\lfloor\bigr\rfloor \Bigl\lfloor\Bigr\rfloor \biggl\lfloor\biggr\rfloor \Biggl\lfloor\Biggr\rfloor
+
+
 \big| \Big| \bigg| \Bigg|
 \big\| \Big\| \bigg\| \Bigg\|
 \sum_{n=0}^\infty \frac{1}{2^n}
