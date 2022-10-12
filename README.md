@@ -11,7 +11,7 @@ public class Bruh {
 ```
 
 ## LaTeX Test
-$
+$$ 
 \bigl( \bigr) \Bigl( \Bigr) \biggl( \biggr) \Biggl( \Biggr)
 \bigl[ \bigr] \Bigl[ \Bigr] \biggl[ \biggr] \Biggl[ \Biggr]
 \bigl\\{ \bigr\\} \Bigl\\{ \Bigr\\} \biggl\\{ \biggr\\} \Biggl\\{ \Biggr\\}
@@ -34,4 +34,4 @@ $
 \mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}
 \mathscr{ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}
 \mathfrak{ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}
-$
+$$
