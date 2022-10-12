@@ -19,18 +19,11 @@ $$
 \bigl\lceil \bigr\rceil \Bigl\lceil \Bigr\rceil \biggl\lceil \biggr\rceil \Biggl\lceil \Biggr\rceil
 \bigl\lfloor \bigr\rfloor \Bigl\lfloor \Bigr\rfloor \biggl\lfloor \biggr\rfloor \Biggl\lfloor \Biggr\rfloor
 \big| \Big| \bigg| \Bigg|
-\big\| \Big\| \bigg\| \Bigg\| \\\ bruh
+\big\| \Big\| \bigg\| \Bigg\|
+\sum_{n=0}^\infty \frac{1}{2^n}
+\Biggl( \iint e^{-((\rho \cos \theta)^2+(\rho \sin \theta)^2)} \bigg| \frac{d(x, y)}{d(\rho, \theta)} \bigg| \Biggr)^{\frac{1}{2}}
 $$
 <!--
-
-
-
-
-
-
-
-
-
 \Biggl( \iint e^{-((\rho \cos \theta)^2+(\rho \sin \theta)^2)} \bigg| \frac{d(x, y)}{d(\rho, \theta)} \bigg| \Biggr)^{\frac{1}{2}}
 
 -->
