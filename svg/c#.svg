@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="28" role="img" aria-label="C#">
+	<g shape-rendering="crispEdges">
+		<rect width="61.5" height="28" fill="#080808"/>
+	</g>
+	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+		<text transform="scale(.1)" x="155" y="175" textLength="175" fill="#fff" font-weight="bold">C#</text>
+	</g>
+</svg>
