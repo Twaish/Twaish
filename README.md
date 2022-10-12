@@ -22,10 +22,11 @@ $$
 \bigl\langle\bigr\rangle \Bigl\langle\Bigr\rangle \biggl\langle\biggr\rangle \Biggl\langle\Biggr\rangle
 
 \bigl\lceil\bigr\rfloor \Bigl\lceil\Bigr\rfloor \biggl\lceil\biggr\rfloor \Biggl\lceil\Biggr\rfloor
-
+$$
+$$
 \bigl\lfloor\bigr\rceil \Bigl\lfloor\Bigr\rceil \biggl\lfloor\biggr\rceil \Biggl\lfloor\Biggr\rceil
-$$
-$$
+
+
 
 \big| \Big| \bigg| \Bigg|
 \big\| \Big\| \bigg\| \Bigg\|
