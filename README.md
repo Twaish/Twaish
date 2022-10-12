@@ -20,14 +20,11 @@ $$
     a + b = c \\ 
     a = c - b
 \end{gather}
-%
-With the align environment you can align equations:
-%
+
 \begin{align}
     a + b &= c \\        
         a &= c - b
 \end{align}
-\end{document}
 \bigl( x \bigr) \Bigl( x \Bigr) \biggl( x \biggr) \Biggl( x \Biggr)
 \bigl[ x \bigr] \Bigl[ x \Bigr] \biggl[ x \biggr] \Biggl[ x \Biggr]
 \bigl\\{ x \bigr\\} \Bigl\\{ x \Bigr\\} \biggl\\{ x \biggr\\} \Biggl\\{ x \Biggr\\}
