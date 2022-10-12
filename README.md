@@ -3,14 +3,32 @@
 
 ## Code Block Test
 ```Java
-public class Bruh {
-  public static void main(String[] args) {
-    System.out.println("mhm");
+public int gcd(int a, int b) {
+  // \/ While loop?
+  for (int i = a; i != 0; i = a) {
+    a = b % a;
+    b = i;
   }
+  return b;
 }
 ```
 
 ## LaTeX Test
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+\begin{gather}
+    a + b = c \\ 
+    a = c - b
+\end{gather}
+%
+With the align environment you can align equations:
+%
+\begin{align}
+    a + b &= c \\        
+        a &= c - b
+\end{align}
+\end{document}
 $$ 
 \bigl( x \bigr) \Bigl( x \Bigr) \biggl( x \biggr) \Biggl( x \Biggr)
 \bigl[ x \bigr] \Bigl[ x \Bigr] \biggl[ x \biggr] \Biggl[ x \Biggr]
