@@ -1,9 +1,7 @@
-### Hi there 👋
+## Tech Stack Test
+<img src="svg/c#.svg"><img src="svg/java.svg"><img src="svg/javascript.svg"><img src="svg/python.svg"><img src="svg/mysql.svg"><img src="svg/html5.svg"><img src="svg/css3.svg">
 
-## </> Tech Stack
-![]
-
-Test
+## Code Block Test
 ```Java
 public class Bruh {
   public static void main(String[] args) {
@@ -12,6 +10,7 @@ public class Bruh {
   }
 }
 ```
+
+## Latex Test
 $$\Biggl( \iint e^{-((\rho \cos \theta)^2+(\rho \sin \theta)^2)} \bigg| \frac{d(x, y)}{d(\rho, \theta)} \bigg| \Biggr)^{\frac{1}{2}}$$
 
-<img src="svg/java.svg" padding="5px"><img src="svg/javascript.svg" padding="5px"><img src="svg/python.svg" padding="5px"><img src="svg/c#.svg"><img src="svg/mysql.svg" padding="5px">
