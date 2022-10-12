@@ -1,5 +1,5 @@
 ## Tech Stack Test
-<img src="svg/c#.svg"><img src="svg/java.svg"><img src="svg/javascript.svg"><img src="svg/python.svg"><img src="svg/mysql.svg"><img src="svg/html5.svg"><img src="svg/css3.svg">
+<img src="svg/cs.svg"><img src="svg/java.svg"><img src="svg/javascript.svg"><img src="svg/python.svg"><img src="svg/mysql.svg"><img src="svg/html5.svg"><img src="svg/css3.svg">
 
 ## Code Block Test
 ```Java
