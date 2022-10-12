@@ -23,7 +23,7 @@ $$
 \sum_{n=0}^\infty \frac{1}{2^n}
 \Biggl( \iint e^{-((\rho \cos \theta)^2+(\rho \sin \theta)^2)} \bigg| \frac{d(x, y)}{d(\rho, \theta)} \bigg| \Biggr)^{\frac{1}{2}}
 $$
-<!--
+$$
 \Biggl( \iint e^{-((\rho \cos \theta)^2+(\rho \sin \theta)^2)} \bigg| \frac{d(x, y)}{d(\rho, \theta)} \bigg| \Biggr)^{\frac{1}{2}}
 
--->
+$$
