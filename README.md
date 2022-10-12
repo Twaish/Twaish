@@ -19,7 +19,7 @@ $$
 \bigl\lceil \bigr\rceil \Bigl\lceil \Bigr\rceil \biggl\lceil \biggr\rceil \Biggl\lceil \Biggr\rceil
 \bigl\lfloor \bigr\rfloor \Bigl\lfloor \Bigr\rfloor \biggl\lfloor \biggr\rfloor \Biggl\lfloor \Biggr\rfloor
 \big| \Big| \bigg| \Bigg|
-\big\| \Big\| \bigg\| \Bigg\|
+\big\| \Big\| \bigg\| \Bigg\| \\\ bruh
 $$
 <!--
 
