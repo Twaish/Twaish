@@ -14,7 +14,7 @@ public class Bruh {
 $$
 \bigl( \bigr) \Bigl( \Bigr) \biggl( \biggr) \Biggl( \Biggr)
 \bigl[ \bigr] \Bigl[ \Bigr] \biggl[ \biggr] \Biggl[ \Biggr]
-\bigl{ \bigr} \Bigl\{ \Bigr\} \biggl\{ \biggr\} \Biggl\{ \Biggr\}
+\bigl{ \bigr} \Bigl{ \Bigr} \biggl{ \biggr} \Biggl{ \Biggr}
 $$
 \bigl\langle \bigr\rangle \Bigl\langle \Bigr\rangle \biggl\langle \biggr\rangle \Biggl\langle \Biggr\rangle
 
