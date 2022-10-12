@@ -22,7 +22,7 @@ $$
 \big\| \Big\| \bigg\| \Bigg\|
 \sum_{n=0}^\infty \frac{1}{2^n}
 \sqrt[3]{\frac{1}{2}}
-\lim_{x\to0}
+\lim_{x\to0}\\\
 \Biggl( \iint e^{-((\rho \cos \theta)^2+(\rho \sin \theta)^2)} \bigg| \frac{d(x, y)}{d(\rho, \theta)} \bigg| \Biggr)^{\frac{1}{2}}
 \mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}
 \mathbf{ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz}
