@@ -15,10 +15,7 @@ public int gcd(int a, int b) {
 
 ## LaTeX Test
 
-$$ 
-\documentclass{article}
-\usepackage{amsmath}
-\begin{document}
+$$
 \begin{gather}
     a + b = c \\ 
     a = c - b
