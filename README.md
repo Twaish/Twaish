@@ -11,7 +11,8 @@ public class Bruh {
 ```
 
 ## LaTeX Test
-$$ \bigl( \bigr) \Bigl( \Bigr) \biggl( \biggr) \Biggl( \Biggr)
+$$ 
+\bigl( \bigr) \Bigl( \Bigr) \biggl( \biggr) \Biggl( \Biggr)
 \bigl[ \bigr] \Bigl[ \Bigr] \biggl[ \biggr] \Biggl[ \Biggr]
 \bigl\{ \bigr\} \Bigl\{ \Bigr\} \biggl\{ \biggr\} \Biggl\{ \Biggr\}$$
 \bigl\langle \bigr\rangle \Bigl\langle \Bigr\rangle \biggl\langle \biggr\rangle \Biggl\langle \Biggr\rangle
@@ -23,5 +24,5 @@ $$ \bigl( \bigr) \Bigl( \Bigr) \biggl( \biggr) \Biggl( \Biggr)
 
 
 
-$$\Biggl( \iint e^{-((\rho \cos \theta)^2+(\rho \sin \theta)^2)} \bigg| \frac{d(x, y)}{d(\rho, \theta)} \bigg| \Biggr)^{\frac{1}{2}}$$
+\Biggl( \iint e^{-((\rho \cos \theta)^2+(\rho \sin \theta)^2)} \bigg| \frac{d(x, y)}{d(\rho, \theta)} \bigg| \Biggr)^{\frac{1}{2}}
 
